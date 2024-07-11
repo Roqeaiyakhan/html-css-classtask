@@ -5,7 +5,6 @@
     height: 500px;
     margin-top: 30px;
     display: flex;
-    justify-content: space-around;
     box-shadow: 0px 0px 40px #918b8b;
 
 }
@@ -14,7 +13,7 @@
     background-repeat: no-repeat;
 }
 .imgcontainer img{
-    width: 510px;
+    width: 550px;
     height: 500px;
     margin-right: 35px;
 
@@ -28,7 +27,7 @@ font-size:50px;
 font-family: 'Arial Narrow', Arial, sans-serif;
 }
 .form-container{
-    background-color: azure;
+    background-color: #fff;
     padding-left: 10px;
     padding-right: 60px;
     color: lightslategray;
