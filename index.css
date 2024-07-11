@@ -1,0 +1,70 @@
+
+.container{
+    width: 80%;
+    margin: auto;
+    height: 500px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 0px 0px 40px #918b8b;
+
+}
+.imgcontainer {
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.imgcontainer img{
+    width: 510px;
+    height: 500px;
+    margin-right: 35px;
+
+}
+.container h1{
+color: #000;
+position: absolute;
+top: 30%;
+left: 13%; 
+font-size:50px;
+font-family: 'Arial Narrow', Arial, sans-serif;
+}
+.form-container{
+    background-color: azure;
+    padding-left: 10px;
+    padding-right: 60px;
+    color: lightslategray;
+    font-size: 14px;
+
+}
+.form-container h2{
+    color: #000;
+    font-size: 35px;
+    margin-right: 20px; 
+     padding-bottom: 10px;
+
+    }
+    #Username{
+        height: 30px;
+        width: 310px;
+        background-color: azure;
+    }
+    #password{
+        height: 30px;
+        width: 310px;
+        background-color: azure;
+    }
+.Forgot-container p {
+    margin-left: 165px;
+    margin-bottom: 70px;
+    /* display: flex; */
+}
+button{
+    width: 310px;
+    height: 40px;
+    margin: 0;
+  position: absolute;
+  top: 72%;
+  right: 16%;
+  font-size: 135%;
+  border-radius: 10px;
+background-color: #ee6ada;
+} 
